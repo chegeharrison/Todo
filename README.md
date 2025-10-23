@@ -24,10 +24,8 @@ This project was created for learning purposes — to explore how React can comm
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/django-react-todo.git
-cd django-react-todo
-
-```bash
+git clone https://github.com/chegeharrison/Todo
+cd todo
 cd backend
 python -m venv venv
 source venv/bin/activate
